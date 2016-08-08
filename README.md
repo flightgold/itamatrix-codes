@@ -5,12 +5,12 @@
 
 #### Regional jets
 ```
-/ aircraft t:MD9 t:320 t:717
+/ aircraft t:MD9 t:717
 ```
 
 #### Narrow-body jets
 ```
-/ aircraft t:320 t:737 t:727 t:320
+/ aircraft t:320 t:737 t:727 t:757
 ```
 
 #### Wide-body jets
